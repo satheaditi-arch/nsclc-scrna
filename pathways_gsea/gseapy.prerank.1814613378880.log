@@ -1,0 +1,5 @@
+2025-12-05 15:04:37,570 prerank1814613378880::[DEBUG   ] Input data is a DataFrame with gene names
+2025-12-05 15:04:37,572 prerank1814613378880::[WARNING ] Duplicated values found in preranked stats: 0.05% of genes
+The order of those genes will be arbitrary, which may produce unexpected results.
+2025-12-05 15:04:37,572 prerank1814613378880::[INFO    ] Parsing data files for GSEA.............................
+2025-12-05 15:04:37,874 prerank1814613378880::[ERROR   ] No supported gene_sets: Hallmark
